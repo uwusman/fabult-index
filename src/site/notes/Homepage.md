@@ -30,6 +30,8 @@ Below is a list of Heroic Skills available.
 </div></div>
 
 
+# Spells
 ![[Heroic Skills.base]]
+
 
 ![[Spells.base]]
