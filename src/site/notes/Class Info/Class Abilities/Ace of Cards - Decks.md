@@ -4,8 +4,8 @@
 
 ## MANAGING THE DECK 
 1. Your **deck** is an actual deck of cards that you can assemble however you prefer, provided their backs are identical and you follow the restrictions below: 
-	1. The deck contains exactly **30 cards**: **2 jokers**, plus **28 cards** divided into **4 types**, called **suits**; for instance, in a standard poker deck the **suits** are **clubs** (♣), **diamonds** (♦), **hearts** (♥), and **spades** (♠). When you create your character's deck, associate each suit to a different damage type among *air*, *earth*, *fire*, and *ice*. 
-		1. For each **suit**, the deck contains **7 cards** with **values 1 to 7**. 
+	- The deck contains exactly **30 cards**: **2 jokers**, plus **28 cards** divided into **4 types**, called **suits**; for instance, in a standard poker deck the **suits** are **clubs** (♣), **diamonds** (♦), **hearts** (♥), and **spades** (♠). When you create your character's deck, associate each suit to a different damage type among *air*, *earth*, *fire*, and *ice*. 
+		- For each **suit**, the deck contains **7 cards** with **values 1 to 7**. 
 
 The simplest approach is to use a poker deck (removing **face cards** and **cards numbered 8 to 10**), but you can also use minor arcana from tarot, cards from collectible card games, and much more; just make sure the combinations are easy to identify.
 1. When a **conflict** begins, shuffle all 30 cards in your **deck** and place it **face down** in front of yourself, then draw **5 cards** to form your starting **hand**. 
