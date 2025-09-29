@@ -7,7 +7,6 @@
 
 [[Rules/Heroic Skills\|Heroic Skills]]
 
-![[Heroic Skills.base#Table]]
+[[Heroic Skills.base#Table]]
 
-
-![[Spells.base#View]]
+[[Spells.base#View]]
